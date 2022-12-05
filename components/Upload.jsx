@@ -32,7 +32,7 @@ export default function Upload() {
             <div class={styles.cards}>
             <div class={styles.card}>
             <div class={styles.card__image}>
-            <img src={image} />
+            <img src={image} alt = "Upload Image" />
             <input
             type="file"
             name="file"
