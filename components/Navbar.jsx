@@ -19,7 +19,7 @@ export default function Navbar() {
           <a href="/Home"> Home</a>
           </Button>
           <Button variant="secondary">
-          <a href="/Titles"> Titles</a>
+          <a href="/Titles"> Content</a>
           </Button>
           <Button variant="secondary">
           <a href="/Create">Create</a>
