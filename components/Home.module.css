@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
 .container {
     padding: 50px;
     background-color: #454545;
@@ -45,15 +46,15 @@
     background-color: #fca54288;
   }
 
-  .GetStarted{
+  .back{
     margin-top: 120px;
     margin-left: 55%;
     font-size: 45px;
     font-weight: 400;
     margin-left: 50%;
-    font-family: 'Graduate';
+    font-family: 'Cookie';
 }
 
-.GetStarted:hover{
+.back:hover{
   text-decoration: underline;
 }
