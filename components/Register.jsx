@@ -30,7 +30,7 @@ export default function Login (){
                </div>
               <div className={styles.signup_button}>
               <button>
-              <a xhref="/Login"> Sign up</a>
+              <a href="/Login"> Sign up</a>
               </button>
               </div>
                 <div className={styles.signup}>
