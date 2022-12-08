@@ -20,8 +20,6 @@ export default function Login (){
       {
       console.log("Email: ",email,"\nPassword: ",password)
       }
- 
-      
   }
  
     return (
@@ -68,15 +66,3 @@ export default function Login (){
          </div>
       );            
     }
-
-
-
-
-
-            
-               
-  
-                   
-       
-
-  
