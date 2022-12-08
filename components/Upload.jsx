@@ -28,7 +28,7 @@ export default function Upload() {
     setLoading(false)
   }
     return (
-      <form>
+      <form action="/Titles" method="post">
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
