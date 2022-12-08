@@ -2,18 +2,28 @@
 <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
 </link>
 
+import React, { useState } from "react";
 import styles from "./Login.module.css";
-import React, { useRef } from "react";
 
 export default function Login (){
-  const email=useRef()
-    const password=useRef()
-    const handleSubmit=()=>{
-        if(email.current.value=="marias@gmail.com"&&password.current.value=="12345"){
-            localStorage.setItem("emailData","marias@gmail.com")
-            localStorage.setItem("passwordData","12345")
-        }
-    }
+  const [email,setEmail]=useState('')
+  const [password,setPassword]=useState('')
+  const [error,setError]=useState(false)
+
+  const handleSubmit=(e)=>{
+      e.preventDefault();
+      if(email.length==0||password.length==0){
+          setError(true)
+          alert("Empty Fields")
+      }
+      if(email&&password)
+      {
+      console.log("Email: ",email,"\nPassword: ",password)
+      }
+ 
+      
+  }
+ 
     return (
         <div className={styles.main}>
          <div className={styles.submain}>
@@ -28,15 +38,21 @@ export default function Login (){
                   <h1>Sign in to Re-Pub</h1>
                <div className={styles.input}>
                 <label>Email:</label>
-                 <input type="text" className={styles.name} required/>
+                <input type="text" className={styles.name} onChange={e=>setEmail(e.target.value)} />
                </div>
                <div className={styles.second_input}>
                 <label>Password:</label>
-                 <input type="password" className={styles.name} required/>
-               </div>
+                <input type="password" className={styles.name} onChange={e=>setPassword(e.target.value)} />
+                </div>
+                <div className={styles.error}>
+               {error&&email.length<=0?
+                 <label1>Email is Required</label1>:""}
+                 {error&&password.length<=0?
+                <label2>Password is Required</label2>:""}
+              </div>
               <div className={styles.login_button}>
               <button>
-              <a href="/Titles"> Login</a>
+                <a href="/Titles"> Login</a>
               </button>
               </div>
                 <p className={styles.link}>
@@ -53,5 +69,14 @@ export default function Login (){
       );            
     }
 
+
+
+
+
+            
+               
+  
+                   
+       
 
   
