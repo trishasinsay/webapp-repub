@@ -81,7 +81,7 @@ export default function Story() {
         </div>
           <div className={styles.link}>
             <button>
-              <a href="/Titles">Go back to Titles </a>
+              <a href="/Titles">Go back to Content </a>
             </button>
             </div>
             <div className={styles.back_button}>
