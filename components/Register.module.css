@@ -107,6 +107,31 @@
   padding-right: 15px;
   color: #ffeedb;
 }
+
+.error label1 {
+  margin-left: 20px;
+  margin-top: 15px;
+  font-size: 15px;
+  padding-right: 5px;
+  color: red;
+  
+}
+
+.error label2 {
+  margin-left: 5px;
+  margin-top: 15px;
+  font-size: 15px;
+  padding-right: 5px;
+  color: red;
+}
+
+.error label3 {
+  margin-left: 5px;
+  margin-top: 15px;
+  font-size: 15px;
+  padding-right: 5px;
+  color: red;
+}
 .signup_button button{
     background-color: black;
     height: 50px;
@@ -156,3 +181,4 @@
 .signup > p :hover{
   text-decoration: underline;
 }
+
