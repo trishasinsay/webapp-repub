@@ -14,7 +14,7 @@ export default function Main() {
         book criticism, or book suggestions, among other things. Blogs on books might be general 
         or specialized.
         </p>
-        <div className={styles.GetStarted}>
+        <div className={styles.back}>
           <a href="/Titles"> Back </a>
         </div>
 
