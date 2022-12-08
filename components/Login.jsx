@@ -28,11 +28,11 @@ export default function Login (){
                   <h1>Sign in to Re-Pub</h1>
                <div className={styles.input}>
                 <label>Email:</label>
-                 <input type="text" ref={email} className={styles.name}/>
+                 <input type="text" className={styles.name} required/>
                </div>
                <div className={styles.second_input}>
                 <label>Password:</label>
-                 <input type="password" ref={password} className={styles.name}/>
+                 <input type="password" className={styles.name} required/>
                </div>
               <div className={styles.login_button}>
               <button>
@@ -42,6 +42,9 @@ export default function Login (){
                 <p className={styles.link}>
                   <a href="#">Forgot password?</a>
                 </p>
+              <div className={styles.signup}>
+                <p> Don't have an account? <a href="/SignUp">Sign Up</a> </p>
+                </div>
               </form>
                </div>
              </div>
