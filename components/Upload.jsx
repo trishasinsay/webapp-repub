@@ -28,6 +28,7 @@ export default function Upload() {
     setLoading(false)
   }
     return (
+      <form>
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
@@ -44,7 +45,7 @@ export default function Upload() {
           <textarea id="mytext" rows="5"></textarea>
             </div>
             <div className={styles.save_button}>
-            <button><a href="/Titles">SAVE</a></button>
+            <button type="submit"> SAVE</button>
             </div>
             <div className={styles.quit_button}>
             <button><a href="/Titles">QUIT</a></button>
@@ -54,5 +55,7 @@ export default function Upload() {
           </div>
           </div>
         </div>
+        </form>
     );
   }
+
