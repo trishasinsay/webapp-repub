@@ -4,8 +4,13 @@
 
 import styles from "./Upload.module.css";
 import React, { useState } from "react";
+import swal from 'sweetalert';
+
 
 export default function Upload() {
+  function messageInsert() {
+    alert("Publication Successful")
+   }
   const [image, setImage] = useState('')
   const [loading, setLoading] = useState(false)
 
@@ -22,11 +27,14 @@ export default function Upload() {
         body: data
       }
     )
+
     const file = await res.json()
 
     setImage(file.secure_url)
     setLoading(false)
-  }
+
+}
+  
     return (
       <form action="/Titles" method="post">
         <div className={styles.container}>
@@ -44,8 +52,8 @@ export default function Upload() {
          <div className={styles.word}>
           <textarea id="mytext" rows="5"></textarea>
             </div>
-            <div className={styles.save_button}>
-            <button type="submit"> SAVE</button>
+            <div className={styles.save_button}>        
+            <button onClick={messageInsert}> SAVE</button>
             </div>
             <div className={styles.quit_button}>
             <button><a href="/Titles">QUIT</a></button>
