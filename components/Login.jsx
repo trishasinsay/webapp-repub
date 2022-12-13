@@ -28,7 +28,7 @@ export default function Login (){
            <div>
              <div className={styles.imgs}>
                <div className={styles.container_image}>
-                 <img src={"MARIALOGO.png"} alt="profile" className={styles.profile}/>
+                 <Image src={"MARIALOGO.png"} alt="profile" className={styles.profile}/>
                </div>
              </div>
              <div>
@@ -50,11 +50,11 @@ export default function Login (){
               </div>
               <div className={styles.login_button}>
               <button>
-                <a href="/Titles"> Login</a>
+                <Link href="/Titles"> Login</Link>
               </button>
               </div>
                 <p className={styles.link}>
-                  <a href="#">Forgot password?</a>
+                  <Link href="#">Forgot password?</Link>
                 </p>
               <div className={styles.signup}>
                 <p> Don't have an account? <a href="/SignUp">Sign Up</a> </p>
