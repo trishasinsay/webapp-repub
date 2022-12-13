@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <Image class={styles.card__image} src="3.png"/>
+                <image class={styles.card__image} src="3.png"/>
                 <div class={styles.card__content}>
                     <p>            Globe & MetaverseGo</p>
                     <p>            By: Val Jose Mendoza </p>
@@ -29,11 +29,11 @@ export default function Story() {
             </div>
             <div className={styles.link}>
               <button>
-                <Link href="/60_HOURS_NO_SLEEP_IN_SOKOR">Next </Link>
+                <link href="/60_HOURS_NO_SLEEP_IN_SOKOR">Next </link>
               </button>
               </div>
               <div className={styles.back_button}>
-            <button><Link href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">Back</Link></button>
+            <button><link href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">Back</link></button>
             </div>
           </div>
           </div>
