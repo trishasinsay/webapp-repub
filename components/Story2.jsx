@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <img class={styles.card__image} src="2.png"/>
+                <Image class={styles.card__image} src="2.png"/>
                 <div class={styles.card__content}>
                     <p>          HOW TO OVERCOME YOUR</p>
                     <p>               FEAR OF FAILURE </p>
@@ -32,11 +32,11 @@ export default function Story() {
             </div>
             <div className={styles.link}>
               <button>
-                <a href="/GLOBE_&_METAVERSEGO">Next </a>
+                <Link href="/GLOBE_&_METAVERSEGO">Next </Link>
               </button>
               </div>
               <div className={styles.back_button}>
-            <button><a href="/UNTIL_FRIDAY_NIGHT">Back</a></button>
+            <button><Link href="/UNTIL_FRIDAY_NIGHT">Back</Link></button>
             </div>
           </div>
           </div>
