@@ -18,10 +18,10 @@ export default function Story() {
         <div className={styles.message}>
          <div className={styles.word}>
           <p>
-            This was probably one of the most exciting things I’ve done last year. I was invited to be part of Viu’s new show called “No Sleep, No FOMO” that will be airing next month. 
+            This was probably one of the most exciting things I&apos;ve done last year. I was invited to be part of Viu&apos;s new show called “No Sleep, No FOMO” that will be airing next month. 
             Basically, the show is all about how you can maximize your time in a new city/country if you only have less than 3 days there. 60 hours of no sleep might sound scary and tiring, 
             but I honestly had the best time with Paul Foster (the main host) and Nat Ho. We went to Seoul and literally did so many challenges– spicy noodle challenge, snowboarding, dance lessons 
-            (my fave!), and a lot more. Honestly didn’t want to do the snowboard challenge because it was my first time trying the sport and we had to go to the slope right away. Lol. Paul and Nat gave me encouraging words so I did it– but really I was forced. 
+            (my fave!), and a lot more. Honestly didn&apos;t want to do the snowboard challenge because it was my first time trying the sport and we had to go to the slope right away. Lol. Paul and Nat gave me encouraging words so I did it– but really I was forced. 
             Joke hahaha. I fell HARD plenty of times but managed to finish the challenge so hurray! We also took dance lessons. Ang SAYA ko dito because growing up I was always into music and dancing– hindi lang talaga ako magaling lol. 
             Catch No Sleep, No FOMO on Viu next month. Download the app! Excited for this episode to come out.
             </p>
