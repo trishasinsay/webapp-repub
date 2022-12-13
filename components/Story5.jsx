@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <Image class={styles.card__image} src="5.png"/>
+                <image class={styles.card__image} src="5.png"/>
                 <div class={styles.card__content}>
                     <p>       CHATTY GRWM: HOW TO DEAL </p>
                     <p>        WITH HATERS/TOXIC PEOPLE</p>
@@ -31,11 +31,11 @@ export default function Story() {
             </div>
             <div className={styles.link}>
               <button>
-                <Link href="/HOW_TO_CHANGE_YOUR_LIFE">Next </Link>
+                <link href="/HOW_TO_CHANGE_YOUR_LIFE">Next </link>
               </button>
               </div>
               <div className={styles.back_button}>
-            <button><Link href="/60_HOURS_NO_SLEEP_IN_SOKOR">Back</Link></button>
+            <button><link href="/60_HOURS_NO_SLEEP_IN_SOKOR">Back</link></button>
             </div>
           </div>
           </div>
