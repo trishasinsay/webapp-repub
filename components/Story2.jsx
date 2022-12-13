@@ -17,7 +17,7 @@ export default function Story() {
                 </div>
         <div className={styles.message}>
          <div className={styles.word}>
-          <p>“Success is not final, failure isn’t fatal, it is the courage to continue that counts”
+          <p>“Success is not final, failure isn&apos;t fatal, it is the courage to continue that counts”
               as once quoted by Winston Churchill.
               It is often seen that whenever we act on something we weigh it as success or failure. This leads us in believing that the result has to be either positive or the rest is just wasted effort. 
               The fear of failure is the reason several times we give up on trying. However, it should not be the case, and therefore, we tell you how to overcome your fears. One must focus on learning 
@@ -25,7 +25,7 @@ export default function Story() {
               fear of failure in a positive way.
               “True Success Is Overcoming The Fear Of Failure”
               A number of times we see that people get upset and give up on something after facing failure. It is in generic terms that one has to find that its path and must take all the failures along 
-              as lessons. The fear of failure is so crippling for a few of us that it might block its way of trying ever again. Therefore, let’s learn more about how to overcome the fear of failure in this post.
+              as lessons. The fear of failure is so crippling for a few of us that it might block its way of trying ever again. Therefore, let&apos;s learn more about how to overcome the fear of failure in this post.
               Practice these methods whenever you feel the fear of failure overpowering your mind. How to overcome the fear of failure – take it as a part of life until it stops hurting you so badly and you can 
               look forward to work again. This is always going to help you grow and make progress in life.
             </p>
