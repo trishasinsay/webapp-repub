@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <image class={styles.card__image} src="2.png"/>
+                <image class={styles.card__image} src="2.png" alt="image"/>
                 <div class={styles.card__content}>
                     <p>          HOW TO OVERCOME YOUR</p>
                     <p>               FEAR OF FAILURE </p>
