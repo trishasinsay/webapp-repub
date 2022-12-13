@@ -20,7 +20,7 @@ export default function Story() {
           <p>
           Hey hey hey, ladies (and gents!) we&apos;re back with a GRWM! Oh boy, it&apos;s been a while! Today we&apos;ll focus on glamin&apos; up while I give my two cents on how to deal with ballbusters.
           I got nothing but love, and I thank everything that has allowed me to see life in all shades of beautiful.
-          Those of you who needs an eye-opener – well you may literally want to get an inspired “sight”.
+          Those of you who needs an eye-opener – well you may literally want to get an inspired &quot;sight&quot;.
           I&apos;ve found amazing contact lenses and ever since coming across them, I&apos;m a fan!
           Do you know that Avaira Vitality contact lenses doesn&apos;t just help you see better – it also combats astigmatism!
           Who says beauty and healing are two different concepts?
