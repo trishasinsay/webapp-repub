@@ -9,7 +9,7 @@ export default function Navbar() {
     return (
       <div className={styles.container}>
         <div className={styles.image}>
-          <image src="LOGO.png" />
+          <image src="LOGO.png" alt="image"/>
         </div>
         <div className={styles.message}>
         <h1>RE-PUB</h1>
