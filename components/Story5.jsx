@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <image class={styles.card__image} src="5.png"/>
+                <image class={styles.card__image} src="5.png" alt="image"/>
                 <div class={styles.card__content}>
                     <p>       CHATTY GRWM: HOW TO DEAL </p>
                     <p>        WITH HATERS/TOXIC PEOPLE</p>
