@@ -7,14 +7,20 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link
-            href="https://fonts.googleapis.com/css2?family=Graduate&family=Inter:wght@300&display=swap"
-            href="https://fonts.googleapis.com/css2?family=Cookie&display=swap"
-            href="https://fonts.gstatic.com" crossorigin>
-            href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap"
-            rel="stylesheet"
-            rel="preconnect"
-          />
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
+</link>
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
+</link>
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet"></link></link>
+      <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link></link>
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
+</link>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
+</link>
         </Head>
         <body>
           <Main />
