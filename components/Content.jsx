@@ -36,7 +36,7 @@ export default function Content() {
             <div class={styles.card4}>
                 <image class={styles.card__image4} src="5.png" alt="image"/>
                 <div class={styles.card__content4}>
-                     <p><Link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">  HOW TO DEAL WITH</link></p>
+                     <p><link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">  HOW TO DEAL WITH</link></p>
                      <p>HATERS/TOXIC PEOPLE</p>
                 </div>
             <div class={styles.card5}>
