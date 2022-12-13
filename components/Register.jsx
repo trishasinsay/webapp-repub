@@ -29,7 +29,7 @@ const handleSubmit=(e)=>{
          <div>
            <div className={styles.imgs}>
              <div className={styles.container_image}>
-               <Image src={"MARIALOGO.png"} alt="profile" className={styles.profile}/>
+               <image src={"MARIALOGO.png"} alt="profile" className={styles.profile}/>
              </div>
            </div>
            <div>
@@ -57,11 +57,11 @@ const handleSubmit=(e)=>{
             </div>
             <div className={styles.signup_button}>
             <button>
-              <Link href="/Login"> Sign up</Link>
+              <link href="/Login"> Sign up</link>
             </button>
             </div>
             <div className={styles.signup}>
-              <p> Already have an account? <Link href="/Login">Login</Link> </p>
+              <p> Already have an account? <link href="/Login">Login</link> </p>
               </div>
             </form>
              </div>
