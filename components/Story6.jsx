@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <image class={styles.card__image} src="6.png"/>
+                <image class={styles.card__image} src="6.png" alt="image"/>
                 <div class={styles.card__content}>
                     <p>   How to Change Your Life When </p>
                     <p>    It Feels Like Nothing is Going</p>
