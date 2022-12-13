@@ -6,7 +6,7 @@ export default function Main() {
   return (
     <div className={styles.container}>
       <div className={styles.image}>
-        <button><image src="MARIALOGO.png" /></button>
+        <button><image src="MARIALOGO.png" alt="image" /></button>
       </div>
       <div className={styles.message}>
         <h1>ABOUT US</h1>
