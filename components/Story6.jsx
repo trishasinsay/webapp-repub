@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <img class={styles.card__image} src="6.png"/>
+                <Image class={styles.card__image} src="6.png"/>
                 <div class={styles.card__content}>
                     <p>   How to Change Your Life When </p>
                     <p>    It Feels Like Nothing is Going</p>
@@ -81,11 +81,11 @@ export default function Story() {
         </div>
           <div className={styles.link}>
             <button>
-              <a href="/Titles">Go back to Content </a>
+              <Link href="/Titles">Go back to Content </Link>
             </button>
             </div>
             <div className={styles.back_button}>
-            <button><a href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">Back</a></button>
+            <button><Link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">Back</Link></button>
             </div>
             </div>    
           </div>
