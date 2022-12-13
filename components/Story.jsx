@@ -9,7 +9,7 @@ export default function Story() {
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
-                <Image class={styles.card__image} src="1.png"/>
+                <image class={styles.card__image} src="1.png"/>
                 <div class={styles.card__content}>
                      <p>     The Book Bratz: ARC Review:</p>
                     <p>            Until Friday Night </p>
@@ -30,7 +30,7 @@ export default function Story() {
             </div>
             <div className={styles.link}>
               <button>
-                <Link href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">Next </Link>
+                <link href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">Next </link>
               </button>
               </div>
           </div>
