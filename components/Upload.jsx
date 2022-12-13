@@ -41,7 +41,7 @@ export default function Upload() {
             <div class={styles.cards}>
             <div class={styles.card}>
             <div class={styles.card__image}>
-            <Image src={image} alt = "Upload Image" />
+            <image src={image} alt = "Upload Image" />
             <input
             type="file"
             name="file"
@@ -56,7 +56,7 @@ export default function Upload() {
             <button onClick={messageInsert}> SAVE</button>
             </div>
             <div className={styles.quit_button}>
-            <button><Link href="/Titles">QUIT</Link></button>
+            <button><link href="/Titles">QUIT</link></button>
               </div>
             </div>
             </div>
