@@ -11,7 +11,7 @@ export default function Content() {
         <div class={styles.card}>
                 <image class={styles.card__image} src="1.png" alt="image"/>
                 <div class={styles.card__content}>
-                     <p><Link href="/UNTIL_FRIDAY_NIGHT"> UNTIL FRIDAY NIGHT</Link></p>
+                     <p><link href="/UNTIL_FRIDAY_NIGHT"> UNTIL FRIDAY NIGHT</link></p>
                 </div>
             <div class={styles.card1}>
                 <image class={styles.card__image1} src="2.png" alt="image"/>
