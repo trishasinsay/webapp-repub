@@ -4,7 +4,6 @@
 
 import styles from "./Upload.module.css";
 import React, { useState } from "react";
-import swal from 'sweetalert';
 
 
 export default function Upload() {
