@@ -1,4 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Graduate&family=Inter:wght@300&display=swap" rel="stylesheet"></link>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
 
 import styles from "./Home.module.css";
 
