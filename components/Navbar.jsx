@@ -9,23 +9,23 @@ export default function Navbar() {
     return (
       <div className={styles.container}>
         <div className={styles.image}>
-          <img src="LOGO.png" />
+          <Image src="LOGO.png" />
         </div>
         <div className={styles.message}>
         <h1>RE-PUB</h1>
         </div>
         <div className={styles.content}>
           <Button variant="secondary">
-          <a href="/Home"> Home</a>
+          <Link href="/Home"> Home</Link>
           </Button>
           <Button variant="secondary">
-          <a href="/Titles"> Content</a>
+          <Link href="/Titles"> Content</Link>
           </Button>
           <Button variant="secondary">
-          <a href="/Create">Create</a>
+          <Link href="/Create">Create</Link>
           </Button>
           <Button variant="primary">
-          <a href="/Logout">Logout</a>
+          <Link href="/Logout">Logout</Link>
           </Button>
         </div>
       </div>
