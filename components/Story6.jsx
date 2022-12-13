@@ -19,7 +19,7 @@ export default function Story() {
         <div className={styles.message}>
          <div className={styles.word}>
           <p>
-            “The rose is a rose from the time it is a seed to the time it dies. Within it, at all times, it contains its whole potential. It seems to be constantly in the process of change; yet at each state, at each moment, it is perfectly all right as it is.” ~Timothy Gallwey
+            &quot;The rose is a rose from the time it is a seed to the time it dies. Within it, at all times, it contains its whole potential. It seems to be constantly in the process of change; yet at each state, at each moment, it is perfectly all right as it is.&quot; ~Timothy Gallwey
             Have you ever wanted something so desperately that you became devastated after many failed attempts to get it?
             Has the same pattern kept repeating itself no matter how you tried to change it?
             Have you ever longed for something so deeply that you lost interest in life when it didn&apos;t happen?
@@ -28,11 +28,11 @@ export default function Story() {
             I didn&apos;t think I was asking for too much. Many people had what I wanted. I had searched for years to find it and thought I deserved it. What was wrong with me that I couldn&apos;t have a normal life?
             I wanted to find my soul mate.
             I kept trying, but I kept falling in love with men who couldn&apos;t commit. Each time, my boyfriend and I seemed so compatible. I looked forward to every hour spent together.
-            I could envision a life together, and my boyfriend seemed to be on the same track. But one day he would drop the bomb—“It&apos;s time to move on.” I heard the excuse, “The timing is not right” so many times that I resented it.
+            I could envision a life together, and my boyfriend seemed to be on the same track. But one day he would drop the bomb—&quot;It&apos;s time to move on.&quot; I heard the excuse, &quot;The timing is not right&quot; so many times that I resented it.
             After searching everywhere for answers, I kept hearing the same messages:
             When things aren&apos;t working, you need to stop trying so hard.
             &apos;s better not to be so emotionally attached to the outcome.
-            Things will work better if you drop your expectations and work with “what is” instead.
+            Things will work better if you drop your expectations and work with &quot;what is&quot; instead.
             This contradicted everything I believed in. I&apos;d always gone after what I wanted. It worked while I lived at home and at school. Why wasn&apos;t it working now that I was on my own and the timing was right?
         </p>
        
@@ -55,7 +55,7 @@ export default function Story() {
         At this time, I had also been laid off from my job, making things even harder because I viewed my career as the other part of my life that made me complete.
         I started big by vowing to let my next relationship be decided for me. After all, my track record wasn&apos;t so great.
         I viewed this as an opportunity to start over without trying to control—without expectations—with less fear and more faith. I set my mind to believe that things would work out if I relaxed, trusted, and went with the flow instead of against it.
-        I began to follow Deepak Chopra&apos;s advice of “being the observer” of my life. I calmed my fears by trying to be conscious that there is peace in the brief moments between our thoughts.
+        I began to follow Deepak Chopra&apos;s advice of &quot;being the observer&quot; of my life. I calmed my fears by trying to be conscious that there is peace in the brief moments between our thoughts.
         I began practicing meditation and yoga with a yogi who showed up in my life. I started walking for an hour every day with a girlfriend, Mary, who I&apos;d just met in my company&apos;s outplacement program. She had been laid off the same day I was.
         My life changed markedly in a very short time. For the first time, I realized I didn&apos;t have to be full of anxiety even if I was single and unemployed.
         I checked in with myself and realized that in each moment I was okay. I could handle this. I could slow down, try to find the best course of action, and focus on how to change—how to be more relaxed by allowing rather than grasping.
@@ -70,7 +70,7 @@ export default function Story() {
         Surprisingly, I was enjoying this experiment. I felt like I was truly living life instead of holding the reins, hanging on, and being thrown off course emotionally when things didn&apos;t go the way I wanted. I started seeing that great things were coming to me.
         Dropping my fear let me experiment with observing what was going on around me and allowing things to unfold. I began to see openings and opportunities I never would have found had I kept trying to make things happen. It was like opening gifts.
         For the first time in my career, I decided to start my own business. And instead of hooking up with another boyfriend, I found a group of like-minded friends who made me feel at home.
-        I found them by joining a group Mary told me about. They were studying a book called, “The Quest.” When she told me about it, I said, “That sounds like something I&apos;m on.” It turned up at just the right time—and so did Mary.
+        I found them by joining a group Mary told me about. They were studying a book called, &quot;The Quest.&quot; When she told me about it, I said, &quot;That sounds like something I&apos;m on.&quot; It turned up at just the right time—and so did Mary.
         It took quite awhile for the right relationship to appear, but in the meantime something valuable happened. I got to know myself better, and I grew immensely. I became comfortable in my own skin and even grew to love being single.
         Later when I was happy with my life, I met my soul mate and husband, Mike, at a singles event. He is completely different from previous boyfriends.
         I knew he was the type who wanted a commitment from the start. His eyes sparkled the first time we met, and he was genuinely interested to hear as much about my life as I was about his.
