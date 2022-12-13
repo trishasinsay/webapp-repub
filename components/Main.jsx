@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
+
 import styles from "./Main.module.css";
 
 export default function Main() {
