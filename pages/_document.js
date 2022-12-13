@@ -23,8 +23,14 @@ class MyDocument extends Document {
 </link>
         </Head>
         <body>
-          <Main />
-          <NextScript />
+         <Main />
+        <Home/>
+        <Content/>
+        <Login/>
+        <Register/>
+        <Navbar/>
+        <Navbar1/>
+        <NextScript />
         </body>
       </Html>
     )
