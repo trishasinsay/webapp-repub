@@ -1,5 +1,5 @@
-import Story2 from "../pages/Story2";
-import Navbar1 from "../pages/Navbar1";
+import Story2 from "../components/Story2";
+import Navbar1 from "../components/Navbar1";
 
 export default function HTOYFOF() {
     return (
