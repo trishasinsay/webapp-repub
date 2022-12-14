@@ -1,4 +1,4 @@
-import Main from "../pages/Main";
+import Main from "../pages/components/Main";
 
 export default function Logout() {
     return (
