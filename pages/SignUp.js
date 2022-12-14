@@ -1,4 +1,4 @@
-import Register from "../pages/Register";
+import Register from "../pages/components/Register";
 
 export default function Logout() {
     return (
