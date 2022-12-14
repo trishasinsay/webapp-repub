@@ -1,4 +1,4 @@
-import Login from "../pages/components/Login";
+import Login from "../pages/Login";
 
 export default function Logout() {
     return (
