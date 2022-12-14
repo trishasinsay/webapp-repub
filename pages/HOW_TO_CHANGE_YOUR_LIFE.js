@@ -1,4 +1,4 @@
-import Story6 from "../pages/Story6";
+import Story6 from "../pages/components/Story6";
 import Navbar1 from "../pages/Navbar1";
 
 export default function HTCYL() {
