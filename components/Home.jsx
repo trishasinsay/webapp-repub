@@ -19,7 +19,7 @@ export default function Main() {
         or specialized.
         </p>
         <div className={styles.back}>
-          <link href="/Titles"> Back </link>
+          <a href="/Titles"> Back </a>
         </div>
 
       </div>
