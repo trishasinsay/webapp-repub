@@ -4,8 +4,8 @@ import Navbar1 from "../pages/Navbar1";
 export default function nosleep () {
     return (
       <div>
-        <Navbar1 />
-        <Story4 />
+        <Navbar1 />;
+        <Story4 />;
       </div>
     );
   }
