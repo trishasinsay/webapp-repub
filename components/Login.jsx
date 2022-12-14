@@ -54,7 +54,7 @@ export default function Login (){
               </button>
               </div>
                 <p className={styles.link}>
-                  <link href="#">Forgot password?/>
+                  <link href="#">Forgot password?</link>
                 </p>
               <div className={styles.signup}>
                 <p> 
