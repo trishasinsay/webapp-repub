@@ -56,7 +56,9 @@ export default function Upload() {
             <button onClick={messageInsert}> SAVE</button>
             </div>
             <div className={styles.quit_button}>
-            <button><link href="/Titles">QUIT/></button>
+            <button>
+              <link href="/Titles">QUIT />
+            </button>
               </div>
             </div>
             </div>
