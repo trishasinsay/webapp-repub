@@ -38,7 +38,9 @@ export default function Story() {
               </button>
               </div>
               <div className={styles.back_button}>
-            <button><link href="/60_HOURS_NO_SLEEP_IN_SOKOR">Back/></button>
+            <button>
+                 <link href="/60_HOURS_NO_SLEEP_IN_SOKOR">Back</link>
+             </button>
             </div>
           </div>
           </div>
