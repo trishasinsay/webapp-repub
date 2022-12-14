@@ -87,7 +87,9 @@ export default function Story() {
             </button>
             </div>
             <div className={styles.back_button}>
-            <button><link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">Back/></button>
+            <button>
+                <link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">Back</link>
+            </button>
             </div>
             </div>    
           </div>
