@@ -40,6 +40,6 @@ export default function Story() {
           </div>
           </div>
         </div>
-      </div>\ 
+      </div>
 );
 }
