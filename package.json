@@ -18,7 +18,11 @@
     "react-router-dom": "^6.4.4"
   },
   "cacheDirectories": {
-    "node_modules/":"none",
-    ".next/cache/**": "none"
+    "node_modules/":"",
+    ".next/cache": "",
+    ".next/static/chunks/pages": "",
+     ".next/static/media": "",
+     ".next/static/css": "",
+    ".next/server/chunks": "",
   }
 }
