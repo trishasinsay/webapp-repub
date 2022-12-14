@@ -1,5 +1,5 @@
-import Navbar from "../pages/Navbar";
-import Content from "../pages/Content";
+import Navbar from "../components/Navbar";
+import Content from "../components/Content";
 
 export default function Titles() {
     return (
