@@ -32,7 +32,7 @@ export default function Story() {
             </div>
             <div className={styles.link}>
               <button>
-                <a href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">Next </a>
+                <link href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">Next </link>
               </button>
               </div>
           </div>
