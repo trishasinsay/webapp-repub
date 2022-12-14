@@ -83,11 +83,11 @@ export default function Story() {
         </div>
           <div className={styles.link}>
             <button>
-              <link href="/Titles">Go back to Content </link>
+              <link href="/Titles">Go back to Content />
             </button>
             </div>
             <div className={styles.back_button}>
-            <button><link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">Back</link></button>
+            <button><link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">Back/></button>
             </div>
             </div>    
           </div>
