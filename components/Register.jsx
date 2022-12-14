@@ -61,7 +61,9 @@ const handleSubmit=(e)=>{
             </button>
             </div>
             <div className={styles.signup}>
-              <p> Already have an account? <link href="/Login">Login/> </p>
+              <p> 
+                Already have an account? <link href="/Login">Login</link> 
+              </p>
               </div>
             </form>
              </div>
