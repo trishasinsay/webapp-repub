@@ -5,4 +5,3 @@
     "test": "DISABLE_ESLINT_PLUGIN=true react-scripts test"
   }
 }
-}
