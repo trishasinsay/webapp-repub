@@ -1,6 +1,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
-</link>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>;
+</link>;
 
 import React, { useState } from "react";
 import styles from "./Login.module.css";
