@@ -16,7 +16,7 @@
     "react-router-dom": "^6.4.4"
   },
   "cacheDirectories": {
-    "node_modules/",
-    ".next/cache/"
+    "node_modules/": "",
+    ".next/cache/": ""
   }
 }
