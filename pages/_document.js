@@ -1,12 +1,11 @@
 // pages/_document.js
 
-import Document, { Html, Head, Main, Home, Content, Login, Register, Navbar, Navbar1 } from '/document'
+import Document, { Html, Head, Main, Home, Content, Login, Register, Navbar, Navbar1 } from 'next/document'
 
-class MyDocument extends Document {
-  render() {
-    return (
-      <Html>
-        <Head>
+export default function Document() {
+  return (
+    <Html>
+      <Head>
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet"></link>
           </link>
@@ -31,7 +30,7 @@ class MyDocument extends Document {
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
           </link>
       
-         </Head>
+        </Head>
         <body>
         <Main />
         <Home/>
@@ -44,6 +43,4 @@ class MyDocument extends Document {
       </Html>
     )
   }
-}
 
-export default MyDocument
