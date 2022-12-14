@@ -19,7 +19,7 @@ export default function Main() {
         or specialized.
         </p>
         <div className={styles.GetStarted}>
-          <link href="/Login"> Get Started</link>
+          <link href="/Login"> Get Started/>
         </div>
       </div>
     </div>
