@@ -6,7 +6,7 @@
 import styles from "./Story.module.css";
 
 export default function Story() {
-    return (
+
         <div className={styles.container}>
             <div class={styles.cards}>
             <div class={styles.card}>
@@ -43,5 +43,4 @@ export default function Story() {
           </div>
         </div>
       </div>
-    );
   }
