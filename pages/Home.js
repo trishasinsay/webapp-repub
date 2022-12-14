@@ -1,6 +1,6 @@
 import Home from "../components/Home";
 
-export default function home() {
+export default function Home() {
     return (
       <div>
         <Home />
