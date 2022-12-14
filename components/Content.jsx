@@ -23,26 +23,26 @@ export default function Content() {
             <div class={styles.card2}>
                 <image class={styles.card__image2} src="3.png" alt="image"/>
                 <div class={styles.card__content2}>
-                    <p><link href="/GLOBE_&_METAVERSEGO">GLOBE & METAVERSEGO</link></p>
+                    <p><link href="/GLOBE_&_METAVERSEGO">GLOBE & METAVERSEGO/></p>
                 </div>
             </div>
             <div class={styles.card3}>
                 <image class={styles.card__image3} src="4.png" alt="image"/>
                 <div class={styles.card__content3}>
-                     <p><link href="/60_HOURS_NO_SLEEP_IN_SOKOR">60 HOURS NO SLEEP</link></p>
+                     <p><link href="/60_HOURS_NO_SLEEP_IN_SOKOR">60 HOURS NO SLEEP/></p>
                      <p>IN SEOUL, SOUTH KOREA</p>
                 </div>
             </div>
             <div class={styles.card4}>
                 <image class={styles.card__image4} src="5.png" alt="image"/>
                 <div class={styles.card__content4}>
-                     <p><link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">  HOW TO DEAL WITH</link></p>
+                     <p><link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">  HOW TO DEAL WITH/></p>
                      <p>HATERS/TOXIC PEOPLE</p>
                 </div>
             <div class={styles.card5}>
                 <image class={styles.card__image5} src="6.png" alt="image"/>
                 <div class={styles.card__content5}>
-                     <p><link href="/HOW_TO_CHANGE_YOUR_LIFE"> HOW TO CHANGE YOUR</link> </p>
+                     <p><link href="/HOW_TO_CHANGE_YOUR_LIFE"> HOW TO CHANGE YOUR/> </p>
                      <p>LIFE WHEN NOTHING IS</p>
                      <p>     GOING YOUR WAY     </p>
                 </div>
