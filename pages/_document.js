@@ -5,7 +5,7 @@ export default function Document() {
     return (
         <Html>
             <Head>
-                <link href="/fonts/fonts_style.css" rel="stylesheet"/>
+                <link href="/fonts/fonts_style.css"/>
             </Head>
         </Html>
     )
