@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet"></link>
 </link>
 
-import Button from "./Button";
+import Button from "../pages/Button";
 import styles from "./Navbar1.module.css";
 
 export default function Navbar() {
