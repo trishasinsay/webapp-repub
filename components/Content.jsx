@@ -11,38 +11,38 @@ export default function Content() {
         <div class={styles.card}>
                 <image class={styles.card__image} src="1.png" alt="image"/>
                 <div class={styles.card__content}>
-                     <p><link href="/UNTIL_FRIDAY_NIGHT"> UNTIL FRIDAY NIGHT</link></p>
+                     <p><a href="/UNTIL_FRIDAY_NIGHT"> UNTIL FRIDAY NIGHT</a></p>
                 </div>
             <div class={styles.card1}>
                 <image class={styles.card__image1} src="2.png" alt="image"/>
                 <div class={styles.card__content1}>
-                <p><link href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">HOW TO OVERCOME YOUR</link> </p>
+                <p><a href="/HOW_TO_OVERCOME_YOUR_FEAR_OF_FAILURE">HOW TO OVERCOME YOUR</a> </p>
                      <p>     FEAR OF FAILURE        </p>
                 </div>
             </div>
             <div class={styles.card2}>
                 <image class={styles.card__image2} src="3.png" alt="image"/>
                 <div class={styles.card__content2}>
-                    <p><link href="/GLOBE_&_METAVERSEGO">GLOBE & METAVERSEGO</link></p>
+                    <p><a href="/GLOBE_&_METAVERSEGO">GLOBE & METAVERSEGO</a></p>
                 </div>
             </div>
             <div class={styles.card3}>
                 <image class={styles.card__image3} src="4.png" alt="image"/>
                 <div class={styles.card__content3}>
-                     <p><link href="/60_HOURS_NO_SLEEP_IN_SOKOR">60 HOURS NO SLEEP</link></p>
+                     <p><a href="/60_HOURS_NO_SLEEP_IN_SOKOR">60 HOURS NO SLEEP</a></p>
                      <p>IN SEOUL, SOUTH KOREA</p>
                 </div>
             </div>
             <div class={styles.card4}>
                 <image class={styles.card__image4} src="5.png" alt="image"/>
                 <div class={styles.card__content4}>
-                     <p><link href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">  HOW TO DEAL WITH</link></p>
+                     <p><a href="/HOW_TO_DEAL_WITH_TOXIC_PEOPLE">  HOW TO DEAL WITH</a></p>
                      <p>HATERS/TOXIC PEOPLE</p>
                 </div>
             <div class={styles.card5}>
                 <image class={styles.card__image5} src="6.png" alt="image"/>
                 <div class={styles.card__content5}>
-                     <p><link href="/HOW_TO_CHANGE_YOUR_LIFE"> HOW TO CHANGE YOUR</link> </p>
+                     <p><a href="/HOW_TO_CHANGE_YOUR_LIFE"> HOW TO CHANGE YOUR</a> </p>
                      <p>LIFE WHEN NOTHING IS</p>
                      <p>     GOING YOUR WAY     </p>
                 </div>
