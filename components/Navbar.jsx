@@ -16,16 +16,16 @@ export default function Navbar() {
         </div>
         <div className={styles.content}>
           <Button variant="secondary">
-          <link href="/Home"> Home/>
+          <link href="/Home"> Home</link>
           </Button>
           <Button variant="secondary">
-          <link href="/Titles"> Content/>
+          <link href="/Titles"> Content</link>
           </Button>
           <Button variant="secondary">
-          <link href="/Create">Create/>
+          <link href="/Create">Create</link>
           </Button>
           <Button variant="primary">
-          <link href="/Logout">Logout/>
+          <link href="/Logout">Logout</link>
           </Button>
         </div>
       </div>
