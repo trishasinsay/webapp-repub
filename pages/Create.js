@@ -1,5 +1,5 @@
-import Upload from "../components/Upload";
-import Navbar1 from "../components/Navbar1";
+import Upload from "../pages/Upload";
+import Navbar1 from "../pages/Navbar1";
 
 export default function Create() {
   return (
