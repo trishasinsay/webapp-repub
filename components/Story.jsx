@@ -38,5 +38,5 @@ export default function Story() {
           </div>
         </div>
       </div>
-    );
+ 
   }
