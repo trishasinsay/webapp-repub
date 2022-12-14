@@ -57,11 +57,11 @@ const handleSubmit=(e)=>{
             </div>
             <div className={styles.signup_button}>
             <button>
-              <link href="/Login"> Sign up</link>
+              <link href="/Login"> Sign up/>
             </button>
             </div>
             <div className={styles.signup}>
-              <p> Already have an account? <link href="/Login">Login</link> </p>
+              <p> Already have an account? <link href="/Login">Login/> </p>
               </div>
             </form>
              </div>
