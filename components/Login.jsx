@@ -50,7 +50,7 @@ export default function Login (){
               </div>
               <div className={styles.login_button}>
               <button>
-                <link href="/Titles"> Login/>
+                <link href="/Titles"> Login</link>
               </button>
               </div>
                 <p className={styles.link}>
