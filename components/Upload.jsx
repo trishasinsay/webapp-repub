@@ -57,7 +57,7 @@ export default function Upload() {
             </div>
             <div className={styles.quit_button}>
             <button>
-              <link href="/Titles">QUIT />
+              <link href="/Titles">QUIT </link>
             </button>
               </div>
             </div>
