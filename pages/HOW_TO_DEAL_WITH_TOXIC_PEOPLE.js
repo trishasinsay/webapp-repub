@@ -1,5 +1,5 @@
-import Story5 from "../components/Story5";
-import Navbar1 from "../components/Navbar1";
+import Story5 from "../pages/Story5";
+import Navbar1 from "../pages/Navbar1";
 
 export default function HTDWTP() {
     return (
