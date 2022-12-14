@@ -33,11 +33,11 @@ export default function Story() {
             </div>
             <div className={styles.link}>
               <button>
-                <a href="/HOW_TO_CHANGE_YOUR_LIFE">Next </a>
+                <link href="/HOW_TO_CHANGE_YOUR_LIFE">Next </link>
               </button>
               </div>
               <div className={styles.back_button}>
-            <button><a href="/60_HOURS_NO_SLEEP_IN_SOKOR">Back</a></button>
+            <button><link href="/60_HOURS_NO_SLEEP_IN_SOKOR">Back</link></button>
             </div>
           </div>
           </div>
