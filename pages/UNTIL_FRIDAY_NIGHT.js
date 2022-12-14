@@ -1,5 +1,5 @@
-import Navbar1 from "../pages/Navbar1";
-import Story from "../pages/Story";
+import Navbar1 from "../pages/components/Navbar1";
+import Story from "../pages/components/Story";
 
 export default function UFN() {
   return (
